@@ -1,3 +1,5 @@
 SDR ideas, projects and findings
 
-[Linux RTL-SDR Setup](https://github.com/endeavor85/sdr/wiki)
+[wiki](https://github.com/endeavor85/sdr/wiki)
+
+[Linux RTL-SDR Setup](https://github.com/endeavor85/sdr/wiki/Setup)
