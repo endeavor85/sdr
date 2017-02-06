@@ -8,3 +8,5 @@ SDR ideas, projects and findings
 |-------------|-----------------------|--------------------------|
 | 1090        | 5.152293577981652     | 2.576146788990826        |
 | 978         | 5.742331288343559     | 2.8711656441717794       |
+
+Reference: http://www.csgnetwork.com/antennagenericfreqlencalc.html
